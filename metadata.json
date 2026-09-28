@@ -1,0 +1,8 @@
+{
+  "name": "CarDetect AI",
+  "description": "Smart Android car detection and recognition app powered by Google Gemini Vision. Identify car make, model, and colour instantly from camera photos and gallery.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
